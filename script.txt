@@ -1,0 +1,13 @@
+/show
+/add
+12
+99 99
+scriptflat
+11
+FINE
+FEW
+BAD
+housescript
+2000
+1
+/show
